@@ -5,6 +5,7 @@
 - 📫 How to reach me kadamhari825@gmail.com, www.linkedin.com/in/HariKadam
 
 As a keen learner, I write tech blogs on Data Science and ML/AI. Read my latest published blogs!
+1. [Understanding Confusion Matrix for Multiclass classification](https://medium.com/@kadamhari225/understanding-the-confusion-matrix-for-multiclass-classification-2810c2569e8d)
 
 
 
