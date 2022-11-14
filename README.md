@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hari Kadam 
-- 👀 I’m interested in Python,ML and NLP and Deep Learning
-- 🌱 I’m currently learning AWS 
-- 💞️ I’m looking to collaborate on Real time industry projects 
+- 👀 I’m interested in discovering the hidden information in vast amounts of data and help to make smarter decisions using tools like Python, SQL, Visulizations and AI
+- 🌱 I’m currently learning AWS and Version Control
+- 💞️ I’m looking to collaborate on real time industry projects 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/harikadam/), [Twitter](https://twitter.com/kadamhari825/with_replies)
 
 I write blogs on Medium to help people understand important concepts .Read my latest published blogs!<br/>
