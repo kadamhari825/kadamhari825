@@ -28,4 +28,4 @@ open_to:      Data Engineering roles
 
 ---
 
-[Portfolio](https://kadamhari825.github.io/Financial-data-pipeline) · [LinkedIn](https://www.linkedin.com/in/harikadam/) · [kadamhari003@gmail.com](mailto:kadamhari003@gmail.com)
+[Portfolio](https://kadamhari825.github.io/Project-Portfolio/#projects) · [LinkedIn](https://www.linkedin.com/in/harikadam/) · [kadamhari003@gmail.com](mailto:kadamhari003@gmail.com)
