@@ -1,17 +1,12 @@
-<h2>Hi, I'm Hari 👋</h2>
+## Hi, I'm Hari 👋
 
-<a href="https://kadamhari825.github.io/Financial-data-pipeline">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=BF3F0A&width=540&lines=Data+Engineer+%40+Quantiphi+Analytics;Building+GCP-native+data+pipelines;BigQuery+%E2%80%A2+Airflow+%E2%80%A2+Snowflake+%E2%80%A2+Python" alt="Typing animation"/>
-</a>
-
-I design and own batch and streaming pipelines for enterprise clients — the kind that move quietly, hold up under load, and never page you at 3 AM.
+Data Engineer at Quantiphi Analytics. I design and own batch and streaming data pipelines for enterprise clients, with a focus on GCP-native architectures.
 
 ```yaml
-location:    India
-currently:   Quantiphi Analytics
-focus:       BigQuery · Cloud Composer · Snowflake → BigQuery sync
-certified:   GCP Professional Data Engineer, GCP Associate Cloud Engineer
-open_to:     Data Engineering roles · Remote / Hybrid
+currently:    Quantiphi Analytics
+focus:        BigQuery · Cloud Composer · Snowflake → BigQuery sync
+certified:    GCP Professional Data Engineer, GCP Associate Cloud Engineer
+open_to:      Data Engineering roles
 ```
 
 ### Stack I reach for
@@ -29,15 +24,8 @@ open_to:     Data Engineering roles · Remote / Hybrid
 
 ### Featured project
 
-🛠 **[Financial Data Pipeline](https://github.com/kadamhari825/Financial-data-pipeline)** — Daily ELT from Yahoo Finance into BigQuery, orchestrated with Cloud Composer, surfaced through Looker Studio.
-
-### Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kadamhari825&show_icons=true&hide_border=true&bg_color=f5f1e8&title_color=bf3f0a&text_color=1c1c1a&icon_color=bf3f0a&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadamhari825&layout=compact&hide_border=true&bg_color=f5f1e8&title_color=bf3f0a&text_color=1c1c1a&langs_count=6" height="160"/>
-</p>
+**[Financial Data Pipeline](https://github.com/kadamhari825/Financial-data-pipeline)** — Daily ELT from Yahoo Finance into BigQuery, orchestrated with Cloud Composer, surfaced through Looker Studio.
 
 ---
 
-<sub>📫 <a href="mailto:kadamhari003@gmail.com">kadamhari003@gmail.com</a> · <a href="https://www.linkedin.com/in/harikadam/">LinkedIn</a> · <a href="https://kadamhari825.github.io/Financial-data-pipeline">Portfolio</a></sub>
+[Portfolio](https://kadamhari825.github.io/Financial-data-pipeline) · [LinkedIn](https://www.linkedin.com/in/harikadam/) · [kadamhari003@gmail.com](mailto:kadamhari003@gmail.com)
